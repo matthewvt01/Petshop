@@ -22,7 +22,7 @@
         android:layout_below="@id/iv_splsh"
         android:text="Petshop"
         android:textSize="20pt"
-        android:textColor="#000000"
+        android:textColor="#007BFF"
         android:textStyle="italic"
         />
 
